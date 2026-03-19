@@ -2,6 +2,22 @@
 
 Um sistema moderno e intuitivo para gerenciamento de finanças pessoais, desenvolvido com Next.js 13, TypeScript e Tailwind CSS.
 
+## 👩‍💻 Minha contribuição
+
+- Desenvolvimento de funcionalidades relacionadas a transações financeiras
+- Implementação da lógica de controle de receitas e despesas
+- Participação na construção da interface e experiência do usuário
+- Organização e estruturação do código
+
+  ## 💡 Contexto de negócio
+
+O sistema foi desenvolvido simulando um cenário próximo ao setor bancário, permitindo o controle de movimentações financeiras, categorização de despesas e visualização de saldo.
+
+## 🎓 Contexto acadêmico
+
+Projeto desenvolvido em equipe durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+
 ## 🧪 Usuário de Teste
 
 Para testar a aplicação, utilize as seguintes credenciais:
