@@ -4,10 +4,11 @@ Um sistema moderno e intuitivo para gerenciamento de finanças pessoais, desenvo
 
 ## 👩‍💻 Minha contribuição
 
-- Desenvolvimento de funcionalidades relacionadas a transações financeiras
-- Implementação da lógica de controle de receitas e despesas
-- Participação na construção da interface e experiência do usuário
-- Organização e estruturação do código
+- Desenvolvimento da interface da aplicação utilizando Next.js e TypeScript
+- Implementação de telas como dashboard financeiro, transações e categorias
+- Criação de componentes reutilizáveis com foco em organização e escalabilidade
+- Aplicação de design responsivo utilizando Tailwind CSS
+- Integração da interface com os dados para exibição de informações financeiras
 
   ## 💡 Contexto de negócio
 
